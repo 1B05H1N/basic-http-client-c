@@ -1,4 +1,4 @@
-### README: Advanced HTTP Client in C
+### README: HTTP Client in C
 
 ---
 
